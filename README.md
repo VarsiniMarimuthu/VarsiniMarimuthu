@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Varsini
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FEfrunEvdi&psig=AOvVaw02gDUcMtmO2Q3aaQhKzHVt&ust=1726560020450000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDUwpD_xogDFQAAAAAdAAAAABBI">
 
 - 👩🏻‍💻 Currently pursuing B.Tech Information Technology 3rd year at K.S.Rangasamy College Of Technology
 - 💻 Aspiring full-stack developer and tech enthusiast, passionate about building dynamic and user-centric applications. I thrive in both front-end and back-end development and have a deep interest in cloud technologies and AI integration.
