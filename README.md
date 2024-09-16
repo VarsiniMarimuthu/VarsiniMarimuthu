@@ -12,15 +12,6 @@
 
 ## 💻 Experience
 
-### 🌐 CodSoft Pvt. Ltd. | Web Development Intern  
-_April 2024 - May 2024 | New Delhi, Tamil Nadu_
-
-- Developed a landing page, portfolio, and calculator, showcasing proficiency in front-end and back-end development.
-- Utilized **HTML**, **CSS**, **JavaScript** for the front-end, and integrated **MongoDB** for back-end functionality, ensuring a seamless, full-stack web solution.
-- Employed X-Stack for responsive and interactive web applications.  
-- **Tech Stack:** HTML, CSS, JavaScript | **Database:** MongoDB  
-- [Certificate](http://codsoft.internship-certificate)
-
 ### 💻 Microsoft Pvt. Ltd. | Web Development Intern  
 _March 2024 - June 2024 | Hyderabad, Telangana_
 
