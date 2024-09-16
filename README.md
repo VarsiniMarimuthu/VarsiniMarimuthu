@@ -7,6 +7,46 @@
 - 🔭 Here's my [portfolio](https://varsini03.neocities.org/Portfolio/)                                                 
 - 🌱 I’m currently learning DSA
 - 🤔 I’m looking for help with Placements in FAANG
+
+---
+
+## 💻 Experience
+
+### 🌐 CodSoft Pvt. Ltd. | Web Development Intern  
+_April 2024 - May 2024 | New Delhi, Tamil Nadu_
+
+- Developed a landing page, portfolio, and calculator, showcasing proficiency in front-end and back-end development.
+- Utilized **HTML**, **CSS**, **JavaScript** for the front-end, and integrated **MongoDB** for back-end functionality, ensuring a seamless, full-stack web solution.
+- Employed X-Stack for responsive and interactive web applications.  
+- **Tech Stack:** HTML, CSS, JavaScript | **Database:** MongoDB  
+- [Certificate](http://codsoft.internship-certificate)
+
+### 💻 Microsoft Pvt. Ltd. | Web Development Intern  
+_March 2024 - June 2024 | Hyderabad, Telangana_
+
+- Built a web application integrated with Microsoft Azure services, leveraging **Azure Blob Storage**, **Azure Core Services**, and **Azure AI Services**.
+- Implemented a **compliance target** using **Azure Static Web App** and **AI Health Bot**, emphasizing my cloud-based development skills.
+- Designed an intelligent chatbot for customer engagement, optimizing the user experience.  
+- **Tech Stack:** HTML, CSS, JavaScript, Azure Core Services, Azure AI Services | **Database:** Azure Blob Storage  
+- [Certificate](https://microsoft.com)
+
+---
+
+## 🔧 Skills
+
+- **Languages**: C, Java, HTML, CSS  
+- **Frameworks**: UiPath, Flutter, React  
+- **Tools & Technologies**: Git, GitHub, VS Code, Azure, MongoDB
+
+---
+
+## 🎓 Education
+
+**KSR College of Technology**  
+_B.Tech in Information Technology | Tiruchengode, Tamil Nadu | GPA: 8.92_  
+
+---
+
   
 ## 📫 How to reach me:
 
