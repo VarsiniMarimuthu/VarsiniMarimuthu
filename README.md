@@ -2,10 +2,12 @@
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
+- 👩🏻‍💻 Currently pursuing B.Tech Information Technology 3rd year at K.S.Rangasamy College Of Technology
+- 💻 Aspiring full-stack developer and tech enthusiast, passionate about building dynamic and user-centric applications. I thrive in both front-end and back-end development and have a deep interest in cloud technologies and AI integration.
 - 🔭 Here's my [portfolio](https://varsini03.neocities.org/Portfolio/)                                                 
 - 🌱 I’m currently learning DSA
 - 🤔 I’m looking for help with Placements in FAANG
-- 
+  
 ## 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varsini0304/) 
