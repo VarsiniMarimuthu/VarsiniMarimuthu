@@ -5,9 +5,11 @@
 - 🔭 Here's my [portfolio](https://varsini03.neocities.org/Portfolio/)                                                 
 - 🌱 I’m currently learning DSA
 - 🤔 I’m looking for help with Placements in FAANG
-- 📫 How to reach me :
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> (https://www.linkedin.com/in/varsini0304/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />] (varsinimarimuthu03@gmail.com)
+- 
+## 📫 How to reach me:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varsini0304/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varsinimarimuthu03@gmail.com)
 
 ---
 
