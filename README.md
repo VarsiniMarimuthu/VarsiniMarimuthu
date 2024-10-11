@@ -22,7 +22,7 @@ _March 2024 - June 2024 | Hyderabad, Telangana_
 - Built a web application integrated with Microsoft Azure services, leveraging **Azure Blob Storage**, **Azure Core Services**, and **Azure AI Services**.
 - Implemented a **compliance target** using **Azure Static Web App** and **AI Health Bot**, emphasizing my cloud-based development skills.
 - Designed an intelligent chatbot for customer engagement, optimizing the user experience.  
-- **Tech Stack:** HTML, CSS, JavaScript, Azure Core Services, Azure AI Services | **Database:** Azure Blob Storage  
+- **Tech Stack:** HTML, CSS, JavaScript, React, Node Js, Azure Core Services, Azure AI Services | **Database:** Azure Blob Storage  
 - [Certificate](https://drive.google.com/file/d/1gA_07rdQcCBek_F5rDaEcsPztynm8IXq/view)
 
 <br>
@@ -31,7 +31,7 @@ _March 2024 - June 2024 | Hyderabad, Telangana_
 
 ## 🔧 Skills
 
-- **Languages**: C, Python, Java, HTML, CSS, JS 
+- **Languages**: C, Python, Java, HTML, CSS, JS, React, Node, Mysql 
 - **Frameworks**: UiPath, Flutter, React  
 - **Tools & Technologies**: Git, GitHub, VS Code, Azure, MongoDB
 
