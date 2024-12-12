@@ -31,9 +31,9 @@ _March 2024 - June 2024 | Hyderabad, Telangana_
 
 ## 🔧 Skills
 
-- **Languages**: C, Python, Java, HTML, CSS, JS, React, Node, Mysql 
-- **Frameworks**: UiPath, Flutter, React  
-- **Tools & Technologies**: Git, GitHub, VS Code, Azure, MongoDB
+- **Languages**: C, Python, Java, HTML, CSS, JS, Angular, Mysql 
+- **Frameworks**: UiPath, Flutter, React, Bootstrap 
+- **Tools & Technologies**: Git, GitHub, VS Code, Azure
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
