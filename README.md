@@ -102,6 +102,8 @@ _B.Tech in Information Technology | Tiruchengode, Tamil Nadu | GPA: 8.92_
 ### LeetCode Stats
 ![Varsini's LeetCode Stats](https://leetcard.jacoblin.cool/Varsini_M?theme=dark&font=Marcellus&ext=heatmap)
 
+![VarsiniMarimuthu's Stats](https://github-readme-stats.vercel.app/api?username=VarsiniMarimuthu&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
+
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <br>
