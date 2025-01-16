@@ -31,8 +31,8 @@ _October 2024 - December 2024 | Remote_
 - Led the development of an **E-learning System** as a team leader, overseeing the integration of front-end and back-end technologies..
 - Integrated **MySQL** for database management, **Angular** for front-end development, and **Spring Boot** for the back-end, ensuring full-stack functionality.
 - Collaborated using **GitHub** for version control and **Postman** for API testing, ensuring smooth communication within the team and proper back-end verification.
-- **Tech Stack:** HTML, CSS, JavaScript, Angular, Java Spring Boot, MySQL | **Database:** MySQL  
-- [Certificate of Completion](https://drive.google.com/file/d/1wAEOwnJrIqc3UVsrrI9umzE8mdcgZGDe/view?usp=drive_link)
+- **Tech Stack:** HTML, CSS, TypeScript, Angular, Java Spring Boot, MySQL | **Database:** MySQL  
+- [Certificate](https://drive.google.com/file/d/1wAEOwnJrIqc3UVsrrI9umzE8mdcgZGDe/view?usp=drive_link)
 
 
 <br>
