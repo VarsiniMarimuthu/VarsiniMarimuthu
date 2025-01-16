@@ -25,6 +25,16 @@ _March 2024 - June 2024 | Hyderabad, Telangana_
 - **Tech Stack:** HTML, CSS, JavaScript,Bootstrap Azure Core Services, Azure AI Services | **Database:** Azure Blob Storage  
 - [Certificate](https://drive.google.com/file/d/1gA_07rdQcCBek_F5rDaEcsPztynm8IXq/view)
 
+- ### 💻 Infosys Pvt. Ltd. | Fullstack Angular Intern  
+_October 2024 - December 2024 | Remote_
+
+- Led the development of an **E-learning System** as a team leader, overseeing the integration of front-end and back-end technologies..
+- Integrated **MySQL** for database management, **Angular** for front-end development, and **Spring Boot** for the back-end, ensuring full-stack functionality.
+- Collaborated using **GitHub** for version control and **Postman** for API testing, ensuring smooth communication within the team and proper back-end verification.
+- **Tech Stack:** HTML, CSS, JavaScript, Angular, Java Spring Boot, MySQL | **Database:** MySQL  
+- [Certificate of Completion](https://drive.google.com/file/d/1wAEOwnJrIqc3UVsrrI9umzE8mdcgZGDe/view?usp=drive_link)
+
+
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <br>
