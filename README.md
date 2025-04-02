@@ -41,8 +41,8 @@ _October 2024 - December 2024 | Remote_
 
 ## 🔧 Skills
 
-- **Languages**: C, Python, Java, HTML, CSS, JS, Angular, Mysql 
-- **Frameworks**: UiPath, Flutter, React, Bootstrap 
+- **Languages**: C, Python, Java, HTML, CSS, JS, Mysql 
+- **Frameworks**: UiPath,Angular,Bootstrap 
 - **Tools & Technologies**: Git, GitHub, VS Code, Azure
 
 <br>
@@ -92,10 +92,7 @@ _B.Tech in Information Technology | Tiruchengode, Tamil Nadu | GPA: 8.92_
   <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
   <img height="50" width="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>
   <img height="50" width="50" src="https://img.icons8.com/color/480/null/notion--v1.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-  <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-  <img height="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
 </p>
 
 <br>
