@@ -10,7 +10,6 @@
 - 💻 Aspiring full-stack developer and tech enthusiast, passionate about building dynamic and user-centric applications. I thrive in both front-end and back-end development and have a deep interest in cloud technologies and AI integration.
 - 🔭 Here's my [portfolio](https://varsini03.neocities.org/Portfolio/)                                                 
 - 🌱 I’m currently learning DSA
-- 🤔 I’m looking for help with Placements in FAANG
 
 ---
 
