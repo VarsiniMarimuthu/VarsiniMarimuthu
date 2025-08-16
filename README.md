@@ -6,7 +6,7 @@
 
 <br>
 
-- 👩🏻‍💻 Currently pursuing B.Tech Information Technology 3rd year at K.S.Rangasamy College Of Technology
+- 👩🏻‍💻 Currently pursuing B.Tech Information Technology final year at K.S.Rangasamy College Of Technology
 - 💻 Aspiring full-stack developer and tech enthusiast, passionate about building dynamic and user-centric applications. I thrive in both front-end and back-end development and have a deep interest in cloud technologies and AI integration.
 - 🔭 Here's my [portfolio](https://varsini03.neocities.org/Portfolio/)                                                 
 - 🌱 I’m currently learning DSA
@@ -16,7 +16,7 @@
 ## 💻 Experience
 
 ### 💻 Microsoft Pvt. Ltd. | Web Development Intern  
-_March 2024 - June 2024 | Hyderabad, Telangana_
+_March 2024 - June 2024 | Virtual
 
 - Built a web application integrated with Microsoft Azure services, leveraging **Azure Blob Storage**, **Azure Core Services**, and **Azure AI Services**.
 - Implemented a **compliance target** using **Azure Static Web App** and **AI Health Bot**, emphasizing my cloud-based development skills.
@@ -25,7 +25,7 @@ _March 2024 - June 2024 | Hyderabad, Telangana_
 - [Certificate](https://drive.google.com/file/d/1gA_07rdQcCBek_F5rDaEcsPztynm8IXq/view)
 
 - ### 💻 Infosys Pvt. Ltd. | Fullstack Angular Intern  
-_October 2024 - December 2024 | Remote_
+_October 2024 - December 2024 | Virtual
 
 - Led the development of an **E-learning System** as a team leader, overseeing the integration of front-end and back-end technologies..
 - Integrated **MySQL** for database management, **Angular** for front-end development, and **Spring Boot** for the back-end, ensuring full-stack functionality.
